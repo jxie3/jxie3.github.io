@@ -1,3 +1,3 @@
-##this is my first blogpost!
+## This is my first blogpost!
 
 Test!
