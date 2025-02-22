@@ -1,4 +1,4 @@
-# Getting into CTFs: Day 1 #
+# Getting into CTFs: Day 1
 
 I finally started learning some of the knowledge needed for CTFs, after hearing about how it's a fun, puzzle-y, and also great for learning programming (which I desperately need to get better at before I start college). Today, I just looked at the first few chapters of the [CTF Primer] (https://primer.picoctf.org/#_introduction) on picoCTF and learned some essential skills.
 
